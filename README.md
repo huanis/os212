@@ -14,7 +14,7 @@ function wuhu(){
 ```
 
 ## Links
+- [Notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Markdown cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 - [My GitHub OS212 repository](https://github.com/huanis/os212/)
 - [My log](https://huanis.github.io/os212/TXT/mylog.txt)
-- [My notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Markdown cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
