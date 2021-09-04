@@ -8,3 +8,4 @@ ZCZC  W00 110 L02  ZOOM: Synchronus session OS
 ZCZC  W00  60 L15  Assignment #05
 ZCZC  W00 240 L15  Assignment #05
 ZCZC  W00 120 L15  Assignment #05
+ZCZC  W00 300 L80  Netflix my love <3 (not really, it doesn't have Jojo Rabbit)
