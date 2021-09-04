@@ -4,7 +4,14 @@ I really don't know what to put in this page, but hi. Here's a quote from Findin
 > Just keep swimming.
 
 Let's be honest here. I can't swim. I mean, I can float, but I can't swim. (Pathetic. I know)  <br />
-Also I just found the cheatsheet for markdown! Pretty cool. I'll give you the link below.  
+Also I just found the cheatsheet for markdown! Pretty cool. I'll give you the link below.  <br /><br />
+
+Hold on. I want to try something.
+```javascript
+function wuhu(){
+    console.log("THIS FEELS LIKE DISCORD");
+}
+```
 
 ## Links
 - [My GitHub OS212 repository](https://github.com/huanis/os212/)
