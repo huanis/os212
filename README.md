@@ -9,7 +9,7 @@ Also I just found the cheatsheet for markdown! Pretty cool. I'll give you the li
 Hold on. I want to try something.
 ```javascript
 function wuhu(){
-    console.log("THIS FEELS LIKE DISCORD");
+    console.log("Uye. This feels like Discord. I love it.");
 }
 ```
 
