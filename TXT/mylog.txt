@@ -12,3 +12,4 @@ ZCZC  W00 300 L80  Netflix my love <3 (not really, it doesn't have Jojo Rabbit)
 ZCZC  W00 180 L87  Trying to find my Pokemon Black DS cartridge
 ZCZC  W00  00 L87  Ends up finding my Pokemon White DS cartridge instead
 ZCZC  W00  60 L73  Playing Pokemon White (my old DS still works somehow)
+ZCZC  W01  20 L11  Assignment #01: Installing VirtualBox and its extensions
