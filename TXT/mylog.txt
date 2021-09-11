@@ -14,5 +14,5 @@ ZCZC  W00  00 L87  Ends up finding my Pokemon White DS cartridge instead
 ZCZC  W00  60 L73  Playing Pokemon White (my old DS still works somehow)
 ZCZC  W01  20 L11  Assignment #01: Installing VirtualBox and its extensions
 ZCZC  W01  20 L11  Assignment #01: Downloaded Putty and WinSCP
-ZCZC  W01  20 L11  Assignment #01: Finished
-ZCZC  W01  20 L12  Assignment #02: Finished
+ZCZC  W01  10 L11  Assignment #01: Finished
+ZCZC  W01 180 L12  Assignment #02: Finished
