@@ -16,3 +16,5 @@ ZCZC  W01  20 L11  Assignment #01: Installing VirtualBox and its extensions
 ZCZC  W01  20 L11  Assignment #01: Downloaded Putty and WinSCP
 ZCZC  W01  10 L11  Assignment #01: Finished
 ZCZC  W01 180 L12  Assignment #02: Finished
+ZCZC  W01  60 L14  Assignment #03
+ZCZC  W01 300 L14  Assignment #04: Finished
