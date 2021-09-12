@@ -6,7 +6,7 @@ I really don't know what to put in this page, but hi. Here's a quote from Findin
 > Just keep swimming.
 
 Let's be honest here. I can't swim. I mean, I can float, but I can't swim. (Pathetic. I know)  <br />
-Also I just found the [cheatsheet for markdown!](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf) Pretty cool. <br /><br />
+Also I just found the [cheatsheet for markdown](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)! Pretty cool. <br /><br />
 
 [GitHub OS212 repository](https://github.com/huanis/os212/) | [My log](https://huanis.github.io/os212/TXT/mylog.txt) | [Links](links.md)
 
