@@ -8,7 +8,7 @@ I really don't know what to put in this page, but hi. Here's a quote from Findin
 Let's be honest here. I can't swim. I mean, I can float, but I can't swim. (Pathetic. I know)  <br />
 Also I just found the cheatsheet for markdown! Pretty cool.  <br /><br />
 
-[GitHub OS212 repository](https://github.com/huanis/os212/) | [My log](https://huanis.github.io/os212/TXT/mylog.txt) | [Links](links.md)
+[GitHub OS212 repository](https://github.com/huanis/os212/) | [My log](https://huanis.github.io/os212/TXT/mylog.txt) | [Links](https://github.com/huanis/os212/blob/master/links.md)
 
 Hold on. I want to try something.
 ```javascript
