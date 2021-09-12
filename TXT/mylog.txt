@@ -22,3 +22,4 @@ ZCZC  W01  60 L08  AsDos: asking for clarity
 ZCZC  W01  60 L15  Assignment #05: Finished
 ZCZC  W01  60 L16  Assignment #06: Finished maybe? Imma update at times
 ZCZC  W01  10 L17  Assignment #07: Finished once I commit this
+ZCZC  W01  20 L18  Assignment #08: Progress: reading about regex
