@@ -39,3 +39,4 @@ ZCZC  W03   5 L14  Assignment #04: Check ".bash_aliases" if it's up-to-date
 ZCZC  W03  60 L15  Assignment #05: Add an extra virtual disk
 ZCZC  W03   5 L18  Assignment #08: Updated "mylog.txt"
 ZCZC  W03  45 L19  Assignment #09: Submit Week 03 Assignment
+ZCZC  W03  20 L17  Assignment #07: Review peer links
