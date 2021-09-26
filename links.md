@@ -13,3 +13,5 @@ Can help with designing your web pages! Well, if it's written in markdown of cou
 __picoCTF is a free computer security game!__ From what I saw, I think it could help familiarize yourself with CMD. [Here](https://youtu.be/P07NH5F-t3s) is a video about it I found on YouTube a while back.
 - [Vim Guide](https://www.youtube.com/watch?v=bVwgwaDmZp4) <br>
 Vim is an upgrade of the vi editor in Linux. This video really helped me write a new file using vim (which is myrank.txt) and I thought I should share this.
+- [Linux Commands: mount and unmount](https://www.computerhope.com/unix/umount.htm)
+I wasn't really sure what mount and unmount does. How it worked. Someone asked about it too in class. So, I thought I should share this.
