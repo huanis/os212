@@ -40,4 +40,7 @@ ZCZC  W03  60 L15  Assignment #05: Add an extra virtual disk
 ZCZC  W03   5 L18  Assignment #08: Updated "mylog.txt"
 ZCZC  W03  45 L19  Assignment #09: Submit Week 03 Assignment
 ZCZC  W03  20 L17  Assignment #07: Review peer links
-ZCZC  W03  10 L16  Assignmetn #06: Update links
+ZCZC  W03  10 L16  Assignment #06: Update links
+ZCZC  W03 120 L13  Assignment #03: Try midterm
+ZCZC  W03 120 L12  Assignment #02: FUSE
+ZCZC  W03 120 L11  Assignment #01: Read OS10
