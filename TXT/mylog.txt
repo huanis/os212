@@ -44,3 +44,10 @@ ZCZC  W03  10 L16  Assignment #06: Update links
 ZCZC  W03 120 L13  Assignment #03: Try midterm
 ZCZC  W03 120 L12  Assignment #02: FUSE
 ZCZC  W03 120 L11  Assignment #01: Read OS10
+ZCZC  W04 240 L11  Assignment #01: Read the slide for chapter 9
+ZCZC  W04  20 L14  Assignment #04: Install Package List 2 (TLPI)
+ZCZC  W04  60 L15  Assignment #05: Fetch and extract file "WEEK04.tar.bz2.asc"
+ZCZC  W04  10 L16  Assignment #06: Updated bookmark links
+ZCZC  W04  10 L17  Assignment #07: Review peer links
+ZCZC  W04  10 L18  Assignment #08: Update log
+ZCZC  W04  20 L19  Assignment #09: Will submit week 04 after updating log
