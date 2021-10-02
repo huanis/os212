@@ -15,3 +15,7 @@ __picoCTF is a free computer security game!__ From what I saw, I think it could 
 Vim is an upgrade of the vi editor in Linux. This video really helped me write a new file using vim (which is myrank.txt) and I thought I should share this.
 - [Linux Commands: mount and unmount](https://www.computerhope.com/unix/umount.htm) <br>
 I wasn't really sure what mount and unmount does. How it worked. Someone asked about it too in class. So, I thought I should share this.
+- [Pointers in C](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/) <br>
+Other than that one meme in the OS server, I this article could help us understand better about pointers.
+- [Dynamic Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+This is where I got my answer for one the questions posted in the forum for week 04. It gives me a better understanding on how to use dynamic allocation in C and how it works.
