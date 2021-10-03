@@ -51,3 +51,5 @@ ZCZC  W04  10 L16  Assignment #06: Updated bookmark links
 ZCZC  W04  10 L17  Assignment #07: Review peer links
 ZCZC  W04  10 L18  Assignment #08: Update log
 ZCZC  W04  20 L19  Assignment #09: Will submit week 04 after updating log
+ZCZC  W04 120 L13  Assignment #03: Midterm problems
+ZCZC  W04  60 L12  Assignment #02: Demo
