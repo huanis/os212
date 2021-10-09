@@ -53,3 +53,11 @@ ZCZC  W04  10 L18  Assignment #08: Update log
 ZCZC  W04  20 L19  Assignment #09: Will submit week 04 after updating log
 ZCZC  W04 120 L13  Assignment #03: Midterm problems
 ZCZC  W04  60 L12  Assignment #02: Demo
+ZCZC  W05 120 L11  Assignment #01: Read OSC10
+ZCZC  W05  90 L12  Assignment #02: Demo
+ZCZC  W05 120 L13  Assignment #03: Midterm Problems
+ZCZC  W05 120 L14  Assignment #04: WEEK05.tar.bz2.asc
+ZCZC  W05  10 L15  Assignment #05: Updated LINKS
+ZCZC  W05  20 L17  Assignment #07: Updated myrank.txt
+ZCZC  W05  20 L18  Assignment #08: Currently updating mylog.txt
+ZCZC  W05  10 L19  Assignment #09: Will submit after updating mylog.txt
