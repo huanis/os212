@@ -19,3 +19,5 @@ I wasn't really sure what mount and unmount does. How it worked. Someone asked a
 Other than that one meme in the OS server, I this article could help us understand better about pointers.
 - [Dynamic Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) <br>
 This is where I got my answer for one the questions posted in the forum for week 04. It gives me a better understanding on how to use dynamic allocation in C and how it works.
+- [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) <br>
+Mr. Anwar taught this in class. I figured it could help for the quiz in week six (pretty sure there's at least one grammatical error in this sentence but it's midnight, so Imma let it be). I recommend looking through the recommended articles of this page too. They're related.
