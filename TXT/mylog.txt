@@ -61,3 +61,11 @@ ZCZC  W05  10 L15  Assignment #05: Updated LINKS
 ZCZC  W05  20 L17  Assignment #07: Updated myrank.txt
 ZCZC  W05  20 L18  Assignment #08: Currently updating mylog.txt
 ZCZC  W05  10 L19  Assignment #09: Will submit after updating mylog.txt
+ZCZC  W06 180 L11  Assignment #01: Read chapter 3 and 4
+ZCZC  W06  60 L12  Assignment #02: Try demo
+ZCZC  W06  90 L13  Assignment #03: Try midterm problem
+ZCZC  W06  30 L14  Assignment #04: Fork() and Shared Memory
+ZCZC  W06  10 L15  Assignment #05: Updated LINKS
+ZCZC  W06  20 L17  Assignment #07: Review peer links
+ZCZC  W06  10 L18  Assignment #08: Currently updating mylog.txt
+ZCZC  W06  20 L19  Assignment #09: Will submit after I'm done editing this
