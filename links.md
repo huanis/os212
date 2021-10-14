@@ -21,3 +21,9 @@ Other than that one meme in the OS server, I this article could help us understa
 This is where I got my answer for one the questions posted in the forum for week 04. It gives me a better understanding on how to use dynamic allocation in C and how it works.
 - [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) <br>
 Mr. Anwar taught this in class. I figured it could help for the quiz in week six (pretty sure there's at least one grammatical error in this sentence but it's midnight, so Imma let it be). I recommend looking through the recommended articles of this page too. They're related.
+- [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Might help you understand what week six's assignment is all about. Doing the exercises also helps. Fork is a function in C that splits the current process into a parent process and a child process.
+- [Process](https://www.geeksforgeeks.org/introduction-of-process-management/) <br>
+Process is discussed in chapter three of OSC10. Thus, I decided to add this link here.
+- [Thread](https://www.geeksforgeeks.org/thread-in-operating-system/) <br>
+Might help in understanding what 'thread' is in operating system. It was mentioned in chapter four of OSC10. There's also an [article](https://www.geeksforgeeks.org/difference-between-process-and-thread/) about the difference between thread and process.
