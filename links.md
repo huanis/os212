@@ -26,4 +26,4 @@ Might help you understand what WEEK 06's assignment is all about. Doing the exer
 - [Process](https://www.geeksforgeeks.org/introduction-of-process-management/) <br>
 Process is discussed in chapter three of OSC10. Thus, I decided to add this link here.
 - [Thread](https://www.geeksforgeeks.org/thread-in-operating-system/) <br>
-Might help in understanding what 'thread' is in operating system. It was mentioned in chapter four of OSC10. There's also an [article](https://www.geeksforgeeks.org/difference-between-process-and-thread/) about the difference between thread and process.
+Might help in understanding what 'thread' is in operating system. It was mentioned in chapter four of OSC10. There's also an [article](https://www.geeksforgeeks.org/difference-between-process-and-thread/) about the differences between thread and process.
