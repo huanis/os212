@@ -31,3 +31,7 @@ Process is discussed in chapter three of OSC10. Thus, I decided to add this link
 - [Thread](https://www.geeksforgeeks.org/thread-in-operating-system/) <br>
 Might help in understanding what 'thread' is in operating system. It was mentioned in chapter four of OSC10. There's also an [article](https://www.geeksforgeeks.org/difference-between-process-and-thread/) about the differences between thread and process.
 ## W07
+- [Linux Command: scp](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) <br>
+This command is used to get REPORT 02 for W07 assignment. It could be used to copy a file from a host to another host.
+- [Linux Command: hexdump](https://www.geeksforgeeks.org/hexdump-command-in-linux-with-examples/) <br>
+In case you're wary of what hexdump does to your file. It's used in W07 assignment to check one of your file's content. (example of use in 001-how-to-get-file-WEEK07-REPORT2.txt)
