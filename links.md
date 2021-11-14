@@ -37,3 +37,8 @@ This command is used to get REPORT 02 for W07 assignment. It could be used to co
 In case you're wary of what hexdump does to your file. It's used in W07 assignment to check one of your file's content. (example of use in 001-how-to-get-file-WEEK07-REPORT2.txt)
 - [Introduction to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
 Since week 07's material is about synchronization, I thought this might help. Check out the related and recommended articles listed in the page. The link I gave just goes to the introduction article.
+### W08
+- [CPU Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_CPU_Scheduling.html) <br>
+This week's material is about scheduling processes. All processes takes time in being processed by the CPU.
+- [CPU Scheduling Algorithms](https://www.guru99.com/cpu-scheduling-algorithms.html) <br>
+Algorithms for CPU task schedulings. Some are more efficient than the other, but there are still costs.
