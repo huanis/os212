@@ -42,3 +42,8 @@ Since week 07's material is about synchronization, I thought this might help. Ch
 This week's material is about scheduling processes. All processes takes time in being processed by the CPU.
 - [CPU Scheduling Algorithms](https://www.guru99.com/cpu-scheduling-algorithms.html) <br>
 Algorithms for CPU task schedulings. Some are more efficient than the other, but there are still costs.
+### W09
+- [Hard Disk Drive](https://www.geeksforgeeks.org/hard-disk-drive-hdd-secondary-memory/) <br>
+Might help for the second quiz of W09 as it covers the equations needed for questions in [Final W09](https://rms46.vlsm.org/2/204.pdf). Pak Anwar also covered about this in class.
+- [RAID](https://www.youtube.com/watch?v=Aa0RTgxJJy8) <br>
+This topic was covered in class (OS C). This video only covers the basic idea of RAID 0, 1, and 5 however as they are the most commonly used, but it is still helpful. Other than that, [here](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/) is an article about RAID.
